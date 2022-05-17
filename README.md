@@ -9,7 +9,7 @@
 - [Arquitetura](#Arquitetura)
 - [Outros Scripts da Aplicação](#outros-scripts-configurados-na-aplicação)
 - [Deploy](#Deploy)
-- [Contato](#Contato)
+- [Equipe](#Equipe)
 
 ## Descrição
 
@@ -24,7 +24,7 @@ Dessa forma ela solicitou uma aplicação para a venda, controle de entregas e a
 Foi desenvolvida a aplicação front-end para para que fosse possível fazer toda a dinâmica de:
 
 - Fluxo do cliente
-  - Apresentar produtos; 
+  - Apresentar produtos;
   - Fazer pedidos;
   - Acompanhar pedidos;
 - Fluxo do vendedor
@@ -32,7 +32,7 @@ Foi desenvolvida a aplicação front-end para para que fosse possível fazer tod
 - Fluxo do administrador
   - Gerenciar usuários;
 
-Foi desenvolvida uma aplicação back-end que se encontra [nesse repositório](https://github.com/rslfilho/delivery-back-end).
+Foi desenvolvida uma aplicação back-end que se encontra [nesse repositório](https://github.com/AlexSmith7192/delivery-back-end).
 
 ## Como usar online
 
@@ -131,13 +131,13 @@ A aplicação está contida na pasta `/src` dentro da raiz do repositório, nela
 
 ## Outros Scripts configurados na aplicação
 
-* `npm run build` para buildar a aplicação React;
-* `npm run test` para rodar todos os testes;
-* `npm run test:coverage` para rodar todos os testes e gerar o relatório de cobertura na tela do terminal;
-* `npm run test:coverage:json` para rodar todos os testes e gerar o relatório de cobertura em json, acessível na pasta `/coverage`;
-* `npm run test:coverage:report` para rodar todos os testes e gerar o relatório de cobertura em html, acessível na pasta `/coverage/lcov-report/`;
-* `npm run lint` para rodar o ESLint;
-* `npm run lint:styles` para rodar o StyleLint;
+- `npm run build` para buildar a aplicação React;
+- `npm run test` para rodar todos os testes;
+- `npm run test:coverage` para rodar todos os testes e gerar o relatório de cobertura na tela do terminal;
+- `npm run test:coverage:json` para rodar todos os testes e gerar o relatório de cobertura em json, acessível na pasta `/coverage`;
+- `npm run test:coverage:report` para rodar todos os testes e gerar o relatório de cobertura em html, acessível na pasta `/coverage/lcov-report/`;
+- `npm run lint` para rodar o ESLint;
+- `npm run lint:styles` para rodar o StyleLint;
 
 ## Deploy
 
@@ -145,12 +145,18 @@ Esta aplicação está rodando na plataforma do Vercel, usando a integração di
 
 Esta acessível pelo endpoint `https://beersdelivery.vercel.app/`.
 
-## Contato
+## Equipe
 
-Desenvolvido por Roberval Filho
+Desenvolvido por:
 
-Email: rslfilho@gmail.com
+[Alex Smith](https://github.com/AlexSmith7192)
 
-Github: https://github.com/rslfilho
+[Anderson Silva](https://github.com/AndersonSilva94)
 
-LinkedIn: https://www.linkedin.com/in/rslfilho/
+[Paulo Eliezer](https://github.com/pauloeliezerg)
+
+[Roberval Filho](https://github.com/rslfilho)
+
+[Sérgio Barbosa](https://github.com/sergioabarbosa)
+
+[Uriel Bochi](https://github.com/urielbochi)
